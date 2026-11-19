@@ -35,7 +35,6 @@ public class HerramientaController {
         
     
     
-      
 
     public void setId_prestamo(int id_prestamo) {
         this.id_prestamo = id_prestamo;

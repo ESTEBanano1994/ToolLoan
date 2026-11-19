@@ -1,12 +1,10 @@
-public class Main {
 
-    /**
-     * @param args the command line arguments
-     */
+
+ public class Main {
+
     public static void main(String[] args) {
-    
-        
-       
+
+        Application.launch(ToolLoan.class, args);
+
     }
-    
 }
